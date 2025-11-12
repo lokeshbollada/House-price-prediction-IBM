@@ -83,9 +83,9 @@ Or view online: https://www.coursera.org/account/accomplishments/certificate/YOU
 
 Lokeshkumar Bollada
 
-Email: your.email@example.com
 
-LinkedIn: https://linkedin.com/in/yourprofile
+
+LinkedIn: https://www.linkedin.com/in/lokeshkumar-bollada/
 
 GitHub: https://github.com/lokeshbollada
 
